@@ -6,11 +6,11 @@ python3 -m venv env
 source env/bin/activate
 pip3 install -r requirement.txt
 
-@devOps-learning/flask-app/microservice/backend$ 
+@assignment3-dev-ops/frontend$ /backend$ 
 python3 app.py
 
 to run frontend
-@devOps-learning/flask-app/microservice/frontend$
+assignment3-dev-ops/frontend$ 
 python3 -m http.server 3000
 
 
